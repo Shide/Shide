@@ -127,6 +127,6 @@ Designing Serious Videogames: From theory to practical applications
 Vocational Preparation and Training Program: Software Development
 
 
-# Enlaces
+## Enlaces
 
 [LinkedIn profile](https://www.linkedin.com/in/eduardodemiguel)
