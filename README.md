@@ -35,7 +35,9 @@ Estoy acostumbrado a registrar todo mi trabajo con herramientas especializadas y
 
 ## Experiencia
 
-### Odoo Developer @ Foticos (Jun 2017 - now)
+### Odoo Developer @ Moduon Team (Jan 2022 - now)
+
+### Odoo Developer @ Foticos (Jun 2017 - Dec 2021)
 
 Odoo skills:
 - Odoo 8, Odoo 12
